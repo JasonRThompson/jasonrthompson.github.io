@@ -1,0 +1,11 @@
+header {
+    background-image: url("pic.jpg");
+}
+.jumbotron { background-image: url("pic.jpg"); 
+			background-repeat: no-repeat;
+			height: 400px;
+			background-size: 100%;
+			color: white;
+			font-size: 200px;
+	
+}
